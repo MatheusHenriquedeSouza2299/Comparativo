@@ -1,7 +1,7 @@
 # Comparativo de Condições: Antes e Depois
-<img src="comparativo/imagens/telalogin.png" alt="Image" height="20%" width="20%">
-<img src="comparativo/imagens/tela1.png" alt="Image" height="20%" width="20%">
-<img src="comparativo/imagens/tela2.png" alt="Image" height="20%" width="20%">
+<img src="comparativo/imagens/telalogin.png" alt="Image" height="50%" width="50%">
+<img src="comparativo/imagens/tela1.png" alt="Image" height="50%" width="50%">
+<img src="comparativo/imagens/tela2.png" alt="Image" height="50%" width="50%">
 
 Nosso comparativo de condições oferece uma maneira simples e eficaz de visualizar e avaliar as mudanças nas condições, sejam elas em contratos, acordos ou políticas. Com uma tela de login intuitiva, você pode comparar facilmente as condições antigas com as novas, identificando todas as diferenças cruciais.
 
